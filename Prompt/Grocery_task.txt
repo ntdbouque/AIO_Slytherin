@@ -1,0 +1,6 @@
+Gro 1/ Is there a billboard in the picture? Think step-by-step and answer using this structure: "At least one billboard: xxx" where xxx is "YES" if having at least one billboard and "NO" if no having any billboards.
+Gro 2 draw/ Drawing the bounding box cover this "billboard" if having at least one billboard in this picture.
+Gro 3/ Is there a refrigerator in the picture? Think step-by-step and answer using this structure: "At least one refrigerator: xxx" where xxx is "YES" if having at least one refrigerator and "NO" if no having any refrigerator.
+Gro 4 draw/ Drawing the bounding box cover  "refrigerator" if having at least one refrigerator .
+Gro 5/ Are there stack of beer crates in the picture? Think step-by-step and answer using this structure: "At least one stack of beer crate: xxx" where xxx is "YES" if having at least stack of beer crate and "NO" if no having stack of beer crate.
+Gro 6 draw/ Drawing the bounding box cover this "stack of beer crate" if having at least a stack of beer crate.
