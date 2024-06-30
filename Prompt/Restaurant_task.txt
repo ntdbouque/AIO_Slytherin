@@ -1,0 +1,6 @@
+Res 1/ Analyze the mood and atmosphere of the given image. Think step-by-step and identify the emotion using one of the following emotions: neutral, happy, enjoyable, angry. Format the response as: "Emotion: xxx"
+Res 2/ Based on the following picture, tell me how many people are in the picture. Answer using this structure: "Number of people: XXX" with XXX is the number of people
+Res 3/ Based on the following picture, tell me how many people are customers in the picture. Answer using this structure: "Number of customers: XXX" with XXX is the number of customers
+Res 4 draw/ Do step-by-step and draw bounding box for all customers (__ customer) in the picture if there is at least one customer in the photo.
+Res 5/ Based on the following picture, tell me how many people are promotional staffs in the picture. Answer using this structure: "Number of promotional staffs: XXX" with XXX is the number of promotional staffs
+Res 6 draw/ Do step-by-step and draw bounding box for all promotional staffs (__ staff) if there is at least one promotional staff.

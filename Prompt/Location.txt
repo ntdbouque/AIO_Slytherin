@@ -1,0 +1,1 @@
+Loc 1/ Identify the location where this photo was taken as grocery store, restaurant or supermarket. Provide the answer in the format: "Location: xxx"
