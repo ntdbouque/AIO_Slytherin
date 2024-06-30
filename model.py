@@ -1,9 +1,4 @@
-'''
-- Input: nhận vào 1 đường dẫn đến ảnh
-- Output: thực hiện truy vấn với LLM, kết quả là một đoạn text chưa được rút trích thông tin
 
-Thứ tự đi Prompt: location -> res/gro -> general
-'''
 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig
